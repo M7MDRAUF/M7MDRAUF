@@ -4,25 +4,12 @@
 
 Software Engineer | Full-Stack Developer passionate about building elegant solutions to complex problems.
 
-🎓 Currently pursuing **Master's in Computer Science** at City University of Seattle (GPA: 3.6)  
-💼 **8 months** of backend development experience at Al Ain Hospital, Abu Dhabi  
 🌐 Check out my portfolio: **[m7md.studio](https://m7md.studio)**  
 📧 Contact me: **mohammad.nasser.dev@gmail.com**
 
 ---
 
-## 🚀 Professional Experience
-
-**Backend Developer** @ Al Ain Hospital (July 2023 - March 2024)
-- Developed SharePoint sites with integrated forms and shopping cart, improving operational efficiency by **15%**
-- Created automated workflows using SharePoint Designer and Power Automate, reducing manual processing time by **20%**
-- Managed permissions for **100+ users**, ensuring secure access and compliance
-- Resolved **50+ Talabi tickets** with **95% resolution** within 24 hours
-- Enhanced internal websites, improving user engagement by **10%**
-
----
-
-## 💻 Technical Skills
+## �� Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
