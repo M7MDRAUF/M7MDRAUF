@@ -65,16 +65,6 @@ Software Engineer | Full-Stack Developer passionate about building elegant solut
 
 ---
 
-## 🌟 Highlights
-
-- ✅ **20%** reduction in manual processing time through automation
-- ✅ **15%** operational efficiency improvement
-- ✅ **95%** ticket resolution rate within 24 hours
-- ✅ Managed **100+** users with secure access control
-- ✅ **10%** increase in user engagement
-
----
-
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-m7md.studio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m7md.studio)
