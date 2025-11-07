@@ -49,19 +49,6 @@ Software Engineer | Full-Stack Developer passionate about building elegant solut
 
 ---
 
-## 🎓 Education
-
-**Master of Science in Computer Science**  
-📍 City University of Seattle | 🗓️ September 2024 - December 2026  
-📊 GPA: 3.6/4.0  
-📚 Key Courses: Cloud Computing, Python, Machine Learning
-
-**Bachelor of Engineering in Software Engineering**  
-📍 Al Ain University, Abu Dhabi, UAE  
-📚 Key Courses: SQL Database, Web Development
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
