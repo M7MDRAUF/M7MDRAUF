@@ -64,9 +64,17 @@ Software Engineer | Full-Stack Developer passionate about building elegant solut
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7MDRAUF&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDRAUF&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7MDRAUF&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+### 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDRAUF&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDRAUF&layout=donut&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
