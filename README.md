@@ -1,38 +1,45 @@
-# Hi there! 👋 I'm Mohammad Ra'uf Al Bataineh
+# Hi there! 👋 I'm Mohammad Al Bataineh
 
-## 💫 About Me
+## About Me
 
-Software Engineer | Full-Stack Developer passionate about building elegant solutions to complex problems.
+Software Engineer | Full-Stack Developer building applications with JavaScript, TypeScript, React, and Node.js.
 
-🌐 Check out my portfolio: **[m7md.studio](https://m7md.studio)**  
-📧 Contact me: **mohammad.nasser.dev@gmail.com**
+🎓 Pursuing a Master of Science in Computer Science at City University of Seattle
+🌐 Portfolio: **[m7md.studio](https://m7md.studio)**
+📧 Contact: **mohammad.nasser.dev@gmail.com**
 
 ---
 
-## �� Technical Skills
+## 🚀 Featured Projects
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-Beginner-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+### [OrgFlow](https://github.com/M7MDRAUF/OrgFlow-AI-Full-Stack-Web-App)
+Full-stack team and project management platform with role-based access control and an AI-assisted document search feature. Node.js, Express, MongoDB, React — 453 automated tests.
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### [STUDENT_OS](https://github.com/M7MDRAUF/STUDENT_OS)
+Full-stack student productivity app combining tasks, notes, flashcards, habits, and finance tracking with a pluggable AI-assistant layer. Next.js, TypeScript, Prisma, SQLite — 63 automated tests.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### [js-interview-forge](https://github.com/M7MDRAUF/js-interview-forge)
+Interactive JavaScript interview-prep tool with flashcards, mock interviews, and coding/debugging exercises, built on a custom content-generation pipeline. React, TypeScript, Vite — 118 automated tests.
 
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
-### Other Skills
-- 🤖 **Machine Learning** - Intermediate
-- 🌐 **Web Development** - Advanced
+## 🛠️ Technical Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Languages:** JavaScript, TypeScript, Python, SQL
+**Frameworks & Libraries:** React, Next.js, Node.js, Express, Prisma
+**Databases:** MongoDB, SQLite
+**Tools:** Git, GitHub, Vite, VS Code
 
 ---
 
@@ -42,11 +49,7 @@ Software Engineer | Full-Stack Developer passionate about building elegant solut
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7MDRAUF&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-### 📈 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDRAUF&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDRAUF&layout=donut&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -55,25 +58,18 @@ Software Engineer | Full-Stack Developer passionate about building elegant solut
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-m7md.studio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m7md.studio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-nasser-142311397/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-mohammad-r-nasser-142311397/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M7MDRAUF)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.nasser.dev@gmail.com)
 
 ---
 
-## 💡 What I'm Working On
+## 💼 Currently
 
-- 🎯 Building innovative full-stack applications
-- 📚 Deepening my knowledge in Machine Learning and Cloud Computing
-- 🌱 Exploring Web3 and blockchain technologies
-- 💼 Open to exciting full-time opportunities
-
----
-
-### 📈 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=M7MDRAUF&color=blueviolet&style=for-the-badge)
+- Building full-stack projects with React, Node.js, and TypeScript
+- Pursuing my M.S. in Computer Science
+- Open to Junior Software Engineer / Full-Stack Developer opportunities
 
 ---
 
-⭐️ From [M7MDRAUF](https://github.com/M7MDRAUF) | Built with ❤️
+⭐️ From [M7MDRAUF](https://github.com/M7MDRAUF)
