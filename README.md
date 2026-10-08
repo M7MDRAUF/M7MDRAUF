@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Mohammad Al Bataineh
+# Hi there! 👋 I'm Mohammad Ra'uf Naser Al Batayneh
 
 ## About Me
 
-Software Engineer | Full-Stack Developer building applications with JavaScript, TypeScript, React, and Node.js.
+MS Computer Science student building full-stack applications with JavaScript, TypeScript, React, and Node.js.
 
-🎓 Pursuing a Master of Science in Computer Science at City University of Seattle
+🎓 Master of Science in Computer Science, City University of Seattle (expected December 2026)
 🌐 Portfolio: **[m7md.studio](https://m7md.studio)**
 📧 Contact: **mohammad.nasser.dev@gmail.com**
 
@@ -13,13 +13,13 @@ Software Engineer | Full-Stack Developer building applications with JavaScript, 
 ## 🚀 Featured Projects
 
 ### [OrgFlow](https://github.com/M7MDRAUF/OrgFlow-AI-Full-Stack-Web-App)
-Full-stack team and project management platform with role-based access control and an AI-assisted document search feature. Node.js, Express, MongoDB, React — 453 automated tests.
+Full-stack team and project management platform with role-based access control and permission-scoped RAG document search, built as a three-person Full-Stack course team project at City University of Seattle. Node.js, Express, MongoDB, React.
 
 ### [STUDENT_OS](https://github.com/M7MDRAUF/STUDENT_OS)
-Full-stack student productivity app combining tasks, notes, flashcards, habits, and finance tracking with a pluggable AI-assistant layer. Next.js, TypeScript, Prisma, SQLite — 63 automated tests.
+Full-stack student productivity app combining tasks, notes, flashcards, habits, and finance tracking with a pluggable AI-assistant layer. Next.js, TypeScript, Prisma, SQLite.
 
 ### [js-interview-forge](https://github.com/M7MDRAUF/js-interview-forge)
-Interactive JavaScript interview-prep tool with flashcards, mock interviews, and coding/debugging exercises, built on a custom content-generation pipeline. React, TypeScript, Vite — 118 automated tests.
+Interactive JavaScript interview-prep tool with flashcards, mock interviews, and coding/debugging exercises, built on a custom content-generation pipeline. React, TypeScript, Vite.
 
 ---
 
